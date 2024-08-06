@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/Ojiwzrd09">
-    <img src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+Oji Wzrd+ðŸ¤—" alt="Ojiwzrd09" />
+    <img src="https://readme-typing-svg.herokuapp.com?size=13&width=275&lines=Selamat+Datang+Di+Github+Oji+ðŸ¤—" alt="Yuri-neko" />
   </a>
 </p>
 
